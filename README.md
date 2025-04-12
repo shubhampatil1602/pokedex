@@ -5,7 +5,7 @@ A sleek and performant Pokémon explorer app built with **React + TypeScript**, 
 ## 🌍 Live Demo
 
 Check out the deployed version on Vercel:  
-🔗 [https://pokedex.vercel.app](https://pokedex.vercel.app)
+🔗 [https://pokedex-shubh1.vercel.app/](https://pokedex-shubh1.vercel.app/)
 
 ## 🚀 Features
 
